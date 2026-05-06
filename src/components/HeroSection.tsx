@@ -6,7 +6,7 @@ export function HeroSection({ checkpoints }: HeroSectionProps) {
   return (
     <section className="hero">
       <div className="hero-copy">
-        <p className="eyebrow">Landing page</p>
+        <p className="eyebrow">Accion Catolica</p>
         <h1>Maqueta generica azul y blanco lista para usar.</h1>
         <p className="lead">
           Estructura inicial para mostrar un producto, servicio o marca con una estetica
